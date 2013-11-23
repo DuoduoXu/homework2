@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "第二次作业第七题", "第二次作业第七题\第二次作业第七题.vcxproj", "{621CC6A6-7CE9-4DCE-981A-1F7807D67F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{621CC6A6-7CE9-4DCE-981A-1F7807D67F05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{621CC6A6-7CE9-4DCE-981A-1F7807D67F05}.Debug|Win32.Build.0 = Debug|Win32
+		{621CC6A6-7CE9-4DCE-981A-1F7807D67F05}.Release|Win32.ActiveCfg = Release|Win32
+		{621CC6A6-7CE9-4DCE-981A-1F7807D67F05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
